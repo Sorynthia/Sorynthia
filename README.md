@@ -74,7 +74,7 @@ npm start
 如果有任何问题或建议，请通过以下方式联系我：
 
 - **GitHub**: [Sorynthia](https://github.com/Sorynthia)
-- **Email**: your-email@example.com
+- **Email**: 2984886500@qq.com
 
 ---
 
