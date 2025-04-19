@@ -75,7 +75,3 @@ npm start
 
 - **GitHub**: [Sorynthia](https://github.com/Sorynthia)
 - **Email**: 2984886500@qq.com
-
----
-
-感谢你的关注与支持！💖
